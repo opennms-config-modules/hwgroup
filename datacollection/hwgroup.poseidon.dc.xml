@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<datacollection-group name="HWg">
+<datacollection-group xmlns="https://xmlns.opennms.org/xsd/config/datacollection" name="HWg">
 
     <!-- HWg Resource Types -->
     <resourceType name="sensIndex" label="HWg Sensor" resourceLabel="${sensName} (${index})">
